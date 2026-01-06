@@ -1551,7 +1551,7 @@ h1 {
     }
 
     .category-item {
-        min-width: 90px;
+        /* min-width: 90px; */
     }
 
     .category-icon {
@@ -2196,5 +2196,6 @@ h1 {
         max-width: 92px; /* mobile size */
     }
 }
+
 
 
